@@ -29,6 +29,16 @@
       <displayName>t2</displayName>
     </task>
   </process>
+  <process name="Process/workflows/NEW_2/Process_Create">
+    <displayName>Create</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_4.php">
+      <processPath>/opt/fmc_repository/Process/workflows/NEW_2/Process_Create/Tasks</processPath>
+      <displayName>4</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
