@@ -41,12 +41,12 @@
   </process>
   <information>
     <icon/>
-    <description/>
+    <description></description>
     <displayField>service_id</displayField>
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>NEW 2</name>
+    <name>NEW 2 TEST</name>
     <group/>
   </information>
 </ObjectDefinition>
