@@ -13,6 +13,16 @@
       <displayName>Stop_me</displayName>
     </task>
   </process>
+  <process name="Process/workflows/Test_Pause_task/Process_update_me">
+    <displayName>update_me</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_update.php">
+      <processPath>/opt/fmc_repository/Process/workflows/Test_Pause_task/Process_update_me/Tasks</processPath>
+      <displayName>update</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
