@@ -46,7 +46,7 @@
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>NEW 2 TEST 3</name>
+    <name>NEW 2 TEST</name>
     <group/>
   </information>
 </ObjectDefinition>
