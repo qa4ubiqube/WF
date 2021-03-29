@@ -41,7 +41,7 @@
   </process>
   <information>
     <icon/>
-    <description/>
+    <description>lorem ipsum</description>
     <displayField>service_id</displayField>
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
