@@ -5,5 +5,6 @@
  */
 require_once '/opt/fmc_repository/Process/Reference/Common/common.php';
 $ret = prepare_json_response(ENDED, 'Task Failed', $context, true);
+sleep(60);
 echo "$ret\n";
 exit;
