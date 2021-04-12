@@ -3,35 +3,34 @@
     <map>
         <entry>
             <key>DISPLAYNAME</key>
-            <value>Test_Three.xml</value>
+            <value>importWFGIT_PHP.xml</value>
         </entry>
         <entry>
             <key>DATE_MODIFICATION</key>
-            <value>1617871783530</value>
+            <value>1618218675397</value>
         </entry>
         <entry>
             <key>REPOSITORY</key>
-            <value>CommandDefinition</value>
+            <value>Process</value>
         </entry>
         <entry>
             <key>DATE_CREATION</key>
-            <value>1617871783517</value>
+            <value>1618218675355</value>
+        </entry>
+        <entry>
+            <key>MODEL</key>
+            <value>0</value>
+        </entry>
+        <entry>
+            <key>TAG</key>
         </entry>
         <entry>
             <key>FILE_TYPE</key>
             <value>text</value>
         </entry>
         <entry>
-            <key>TAG</key>
-            <value>string</value>
-        </entry>
-        <entry>
-            <key>MODEL</key>
-            <value>80001</value>
-        </entry>
-        <entry>
             <key>MANUFACTURER</key>
-            <value>80000</value>
+            <value>0</value>
         </entry>
         <entry>
             <key>TYPE</key>
@@ -39,7 +38,6 @@
         </entry>
         <entry>
             <key>COMMENT</key>
-            <value>string</value>
         </entry>
     </map>
 </metadata>
