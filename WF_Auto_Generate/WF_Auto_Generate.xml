@@ -1,9 +1,19 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/WF_Auto_Generate/Process_create">
+    <displayName>create</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_c.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_Auto_Generate/Process_create/Tasks</processPath>
+      <displayName>c</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
-    <description></description>
+    <description/>
     <displayField>service_id</displayField>
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
