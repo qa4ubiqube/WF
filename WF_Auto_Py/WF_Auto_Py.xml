@@ -22,6 +22,10 @@
       <processPath>Process/workflows/WF_Auto_Py/Process_cr2/Tasks</processPath>
       <displayName>CAI34</displayName>
     </task>
+    <task name="dns_IMPORT.py">
+      <processPath>Process/workflows/WF_Auto_Py/Process_cr2/Tasks</processPath>
+      <displayName>fdi5</displayName>
+    </task>
   </process>
   <information>
     <icon/>
