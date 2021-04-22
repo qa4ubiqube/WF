@@ -10,6 +10,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_Auto_Generate/Process_create/Tasks</processPath>
       <displayName>c</displayName>
     </task>
+    <task name="AccessTokens_CREATE.php">
+      <processPath>Process/workflows/WF_Auto_Generate/Process_create/Tasks</processPath>
+      <displayName>atc34</displayName>
+    </task>
   </process>
   <information>
     <icon/>
@@ -18,7 +22,7 @@
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>WF Auto Generate 2</name>
+    <name>WF Auto Generate 2 </name>
     <group/>
   </information>
 </ObjectDefinition>
