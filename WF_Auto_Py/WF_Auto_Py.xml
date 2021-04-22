@@ -6,6 +6,22 @@
     <type>CREATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
+    <task name="Task_cr43.py">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_Auto_Py/Process_cr2/Tasks</processPath>
+      <displayName>cr43</displayName>
+    </task>
+    <task name="Process/workflows/WF_Auto_Py/Process_cr2/Tasks">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_Auto_Py/Process_cr2/Tasks</processPath>
+      <displayName>agc</displayName>
+    </task>
+    <task name="Process/workflows/WF_Auto_Py/Process_cr2/Tasks">
+      <processPath>Process/workflows/WF_Auto_Py/Process_cr2/Tasks</processPath>
+      <displayName>atc123</displayName>
+    </task>
+    <task name="address_IMPORT.py">
+      <processPath>Process/workflows/WF_Auto_Py/Process_cr2/Tasks</processPath>
+      <displayName>CAI34</displayName>
+    </task>
   </process>
   <information>
     <icon/>
