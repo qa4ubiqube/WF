@@ -14,6 +14,10 @@
       <processPath>Process/workflows/WF_Auto_Generate/Process_create/Tasks</processPath>
       <displayName>atc34</displayName>
     </task>
+    <task name="k8_apis_list_CREATE.php">
+      <processPath>Process/workflows/WF_Auto_Generate/Process_create/Tasks</processPath>
+      <displayName>adfgg</displayName>
+    </task>
   </process>
   <information>
     <icon/>
