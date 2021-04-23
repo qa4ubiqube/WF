@@ -19,6 +19,16 @@
       <displayName>adfgg</displayName>
     </task>
   </process>
+  <process name="Process/workflows/WF_Auto_Generate/Process_update_jp">
+    <displayName>update　日本語</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task________jp.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_Auto_Generate/Process_update_jp/Tasks</processPath>
+      <displayName>タスクも日本語</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
