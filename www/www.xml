@@ -10,6 +10,22 @@
       <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
       <displayName>ttt</displayName>
     </task>
+    <task name="Task_template.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>template</displayName>
+    </task>
+    <task name="antivirus_UPDATE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>ooo</displayName>
+    </task>
+    <task name="address_object_CREATE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>aaa</displayName>
+    </task>
+    <task name="address_object_CREATE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>aaaa</displayName>
+    </task>
   </process>
   <information>
     <icon/>
