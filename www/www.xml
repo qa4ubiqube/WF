@@ -26,6 +26,14 @@
       <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
       <displayName>aaaa</displayName>
     </task>
+    <task name="address_object_DELETE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>aaaaa</displayName>
+    </task>
+    <task name="address_object_DELETE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>123èèè</displayName>
+    </task>
   </process>
   <information>
     <icon/>
