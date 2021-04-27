@@ -34,6 +34,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
       <displayName>123èèè</displayName>
     </task>
+    <task name="Task_456789.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>456789</displayName>
+    </task>
   </process>
   <information>
     <icon/>
