@@ -8,6 +8,8 @@ function list_args()
   
 }
 
+
+
 check_mandatory_param('device_id');
 
 $device_id = $context['device_id'];
