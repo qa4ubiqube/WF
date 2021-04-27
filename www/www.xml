@@ -47,6 +47,16 @@
       <displayName>123&amp;&amp;&amp;</displayName>
     </task>
   </process>
+  <process name="Process/workflows/www/Process_ooo">
+    <displayName>ooo</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="simple_firewall_CREATE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ooo/Tasks</processPath>
+      <displayName>ttt</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
