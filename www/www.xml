@@ -52,9 +52,9 @@
     <type>CREATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
-    <task name="simple_firewall_CREATE.php">
+    <task name="redfish_virtual_media_UPDATE.php">
       <processPath>/opt/fmc_repository/Process/workflows/www/Process_ooo/Tasks</processPath>
-      <displayName>ttt</displayName>
+      <displayName>yyy</displayName>
     </task>
   </process>
   <information>
