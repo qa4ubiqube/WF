@@ -1,6 +1,16 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/www/Process_ppp">
+    <displayName>ppp</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="crypto_ipsec_CREATE.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>ttt</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
