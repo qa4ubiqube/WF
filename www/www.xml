@@ -38,6 +38,14 @@
       <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
       <displayName>456789</displayName>
     </task>
+    <task name="Task_456___.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>456"""</displayName>
+    </task>
+    <task name="Task_123___.php">
+      <processPath>/opt/fmc_repository/Process/workflows/www/Process_ppp/Tasks</processPath>
+      <displayName>123&amp;&amp;&amp;</displayName>
+    </task>
   </process>
   <information>
     <icon/>
