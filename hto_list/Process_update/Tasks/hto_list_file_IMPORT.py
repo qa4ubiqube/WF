@@ -30,6 +30,8 @@ order.command_execute('IMPORT', object_parameters)
 # convert dict object into json
 content = json.loads(order.content)
 
+context['message'] = content['message']
+
 # check if the response is OK
 if order.response.ok:
     ret = MSA_API.process_content('ENDED',
