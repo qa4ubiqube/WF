@@ -31,5 +31,5 @@ headers = {'content-type': 'application/json'}
 
 r = requests.post(url, json=payload, headers=headers)
 
-ret = MSA_API.process_content('ENDED', url+payload, context, True)
+ret = MSA_API.process_content('ENDED', url, context, True)
 print(ret)
