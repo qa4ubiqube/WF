@@ -30,7 +30,7 @@
     <serviceTaskType>python</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>getmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessagegetmessage</name>
+    <name>get message</name>
     <group/>
   </information>
 </ObjectDefinition>
