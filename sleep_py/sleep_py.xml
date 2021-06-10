@@ -13,6 +13,20 @@
       <displayName>sleep</displayName>
     </task>
   </process>
+  <process name="Process/workflows/sleep_py/Process_sleep_update">
+    <displayName>sleep update</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_1.py">
+      <processPath>/opt/fmc_repository/Process/workflows/sleep_py/Process_sleep_update/Tasks</processPath>
+      <displayName>1</displayName>
+    </task>
+    <task name="Task_2.py">
+      <processPath>/opt/fmc_repository/Process/workflows/sleep_py/Process_sleep_update/Tasks</processPath>
+      <displayName>2</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
