@@ -3,6 +3,16 @@
     <variable displayName="Sleep" name="params.sleep" startIncrement="0" type="Integer" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
   </variables>
   <example/>
+  <process name="Process/workflows/sleep_py/Process_create_instance">
+    <displayName>create instance</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_sleep.py">
+      <processPath>/opt/fmc_repository/Process/workflows/sleep_py/Process_create_instance/Tasks</processPath>
+      <displayName>sleep</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
