@@ -9,6 +9,7 @@ dev_var.add('message')
 
 context = Variables.task_call(dev_var)
 
+
 ret = MSA_API.process_content('ENDED', context['message'], context, True)
 print(ret)
 
