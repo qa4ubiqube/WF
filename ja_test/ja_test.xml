@@ -1,0 +1,22 @@
+<ObjectDefinition>
+  <variables frozen="0">
+    <variable displayName="表示名" name="params.ja" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
+  </variables>
+  <example/>
+  <process name="Process/workflows/ja_test/Process_一_プロセス">
+    <displayName>一．プロセス</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+  </process>
+  <information>
+    <icon/>
+    <description>日本語のテスト。</description>
+    <displayField>service_id</displayField>
+    <serviceTaskType>php</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>日本語テスト</name>
+    <group/>
+  </information>
+</ObjectDefinition>
