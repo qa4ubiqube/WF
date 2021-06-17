@@ -18,6 +18,8 @@ The allowed types are:
 dev_var = Variables()
 dev_var.add('var_name', var_type='String')
 dev_var.add('var_name2', var_type='Integer')
+dev_var.add('a.0.r', var_type='String')
+dev_var.add('a.1.r', var_type='String')
 
 '''
 context => Service Context variable per Service Instance
