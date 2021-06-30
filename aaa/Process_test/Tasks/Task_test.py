@@ -17,6 +17,7 @@ The allowed types are:
 '''
 dev_var = Variables()
 dev_var.add('device', var_type='Device')
+dev_var.add('testDevice', var_type='Device')
 
 '''
 context => Service Context variable per Service Instance
