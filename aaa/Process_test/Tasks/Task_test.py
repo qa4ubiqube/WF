@@ -16,7 +16,7 @@ The allowed types are:
  Add as many variables as needed
 '''
 dev_var = Variables()
-dev_var.add('device', var_type='Managed Entity')
+dev_var.add('device', var_type='Device')
 
 '''
 context => Service Context variable per Service Instance
