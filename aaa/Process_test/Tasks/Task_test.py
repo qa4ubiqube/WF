@@ -16,7 +16,7 @@ The allowed types are:
  Add as many variables as needed
 '''
 dev_var = Variables()
-dev_var.add('Device', var_type='Manged Entity')
+dev_var.add('device', var_type='Manged Entity')
 
 '''
 context => Service Context variable per Service Instance
@@ -28,7 +28,7 @@ Update context array [add/update/delete variables] as per requirement
 ENTER YOUR CODE HERE
 '''
 context = Variables.task_call(dev_var)
-context['var_name2'] = int(context['var_name2']) + 1
+#context['var_name2'] = int(context['var_name2']) + 1
 
 '''
 Format of the Task response :
