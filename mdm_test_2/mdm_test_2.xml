@@ -1,0 +1,24 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <process name="Process/workflows/mdm_test_2/Process_1">
+    <displayName>1</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_1.py">
+      <processPath>/opt/fmc_repository/Process/workflows/mdm_test_2/Process_1/Tasks</processPath>
+      <displayName>1</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>mdm_test_2</name>
+    <group/>
+  </information>
+</ObjectDefinition>
