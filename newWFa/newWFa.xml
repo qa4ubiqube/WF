@@ -1,0 +1,24 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <process name="Process/workflows/newWFa/Process_p1">
+    <displayName>p1</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_t2.php">
+      <processPath>/opt/fmc_repository/Process/workflows/newWFa/Process_p1/Tasks</processPath>
+      <displayName>t2</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>php</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>newWFa</name>
+    <group/>
+  </information>
+</ObjectDefinition>
