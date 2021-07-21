@@ -19,6 +19,16 @@
       <displayName>Add_route</displayName>
     </task>
   </process>
+  <process name="Process/workflows/MSCallTest/Process_delete">
+    <displayName>delete</displayName>
+    <type>DELETE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="routing_DELETE.py">
+      <processPath>/opt/fmc_repository/Process/workflows/MSCallTest/Process_delete/Tasks</processPath>
+      <displayName>Route_delete</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
