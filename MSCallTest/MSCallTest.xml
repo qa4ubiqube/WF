@@ -21,7 +21,7 @@
   </process>
   <process name="Process/workflows/MSCallTest/Process_delete">
     <displayName>delete</displayName>
-    <type>DELETE</type>
+    <type>UPDATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
     <task name="routing_DELETE.py">
