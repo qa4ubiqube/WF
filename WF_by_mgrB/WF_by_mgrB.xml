@@ -1,0 +1,24 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <process name="Process/workflows/WF_by_mgrB/Process_d">
+    <displayName>d</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_d.py">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_mgrB/Process_d/Tasks</processPath>
+      <displayName>d</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>WF_by_mgrB</name>
+    <group/>
+  </information>
+</ObjectDefinition>

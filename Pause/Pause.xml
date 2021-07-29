@@ -1,0 +1,34 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <process name="Process/workflows/Pause/Process_create">
+    <displayName>create</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_create.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Pause/Process_create/Tasks</processPath>
+      <displayName>create</displayName>
+    </task>
+  </process>
+  <process name="Process/workflows/Pause/Process_pause">
+    <displayName>pause</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_pause.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Pause/Process_pause/Tasks</processPath>
+      <displayName>pause</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>Pause</name>
+    <group/>
+  </information>
+</ObjectDefinition>

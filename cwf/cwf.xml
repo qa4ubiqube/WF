@@ -1,0 +1,24 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <process name="Process/workflows/cwf/Process_fff_as">
+    <displayName>fff as</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="hto_list_file_CREATE.py">
+      <processPath>/opt/fmc_repository/Process/workflows/cwf/Process_fff_as/Tasks</processPath>
+      <displayName>create file</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>cwf</name>
+    <group/>
+  </information>
+</ObjectDefinition>

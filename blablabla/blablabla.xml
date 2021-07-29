@@ -1,0 +1,26 @@
+<ObjectDefinition>
+  <variables frozen="0">
+    <variable displayName="tete" name="params.blabla" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
+  </variables>
+  <example/>
+  <process name="Process/workflows/blablabla/Process_Create_Blabla">
+    <displayName>Create_Blabla</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="interface_CREATE.py">
+      <processPath>/opt/fmc_repository/Process/workflows/blablabla/Process_Create_Blabla/Tasks</processPath>
+      <displayName>Create_Task_blabla</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>blablabla</name>
+    <group/>
+  </information>
+</ObjectDefinition>
