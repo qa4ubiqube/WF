@@ -27,5 +27,6 @@ logToFile($name);
 /**
  * End of the task do not modify after this point
  */
+task_exit(ENDED, "" . $name);
 
 ?>
