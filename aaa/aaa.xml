@@ -27,6 +27,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/aaa/Process_AA/Tasks</processPath>
       <displayName>ttt</displayName>
     </task>
+    <task name="Task_aaa.py">
+      <processPath>/opt/fmc_repository/Process/workflows/aaa/Process_AA/Tasks</processPath>
+      <displayName>aaa</displayName>
+    </task>
   </process>
   <information>
     <icon/>
