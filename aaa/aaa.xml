@@ -13,6 +13,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/aaa/Process_A/Tasks</processPath>
       <displayName>AA</displayName>
     </task>
+    <task name="Task_bb.py">
+      <processPath>/opt/fmc_repository/Process/workflows/aaa/Process_A/Tasks</processPath>
+      <displayName>bb</displayName>
+    </task>
   </process>
   <information>
     <icon/>
