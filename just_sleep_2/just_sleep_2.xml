@@ -3,6 +3,20 @@
     <variable displayName="sleep" name="params.sleep" startIncrement="0" type="Integer" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" default="5" isMandatory="true" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
   </variables>
   <example/>
+  <process name="Process/workflows/just_sleep_2/Process_update_twice">
+    <displayName>update_twice</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_1.php">
+      <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_update_twice/Tasks</processPath>
+      <displayName>1</displayName>
+    </task>
+    <task name="Task_2.php">
+      <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_update_twice/Tasks</processPath>
+      <displayName>2</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
