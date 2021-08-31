@@ -14,6 +14,16 @@
       <displayName>AA</displayName>
     </task>
   </process>
+  <process name="Process/workflows/aaa/Process_AA">
+    <displayName>AA</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_tt.py">
+      <processPath>/opt/fmc_repository/Process/workflows/aaa/Process_AA/Tasks</processPath>
+      <displayName>tt</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
