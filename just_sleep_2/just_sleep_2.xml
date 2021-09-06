@@ -22,6 +22,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_update_twice/Tasks</processPath>
       <displayName>bla</displayName>
     </task>
+    <task name="Process/workflows/just_sleep_2/Process_update_twice/Tasks/Task_delete.php">
+      <processPath></processPath>
+      <displayName>new delete</displayName>
+    </task>
   </process>
   <process name="Process/workflows/just_sleep_2/Process_create_sleep">
     <displayName>create_sleep</displayName>
