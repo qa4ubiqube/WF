@@ -18,6 +18,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_update_twice/Tasks</processPath>
       <displayName>2</displayName>
     </task>
+    <task name="Task_bla.php">
+      <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_update_twice/Tasks</processPath>
+      <displayName>bla</displayName>
+    </task>
   </process>
   <process name="Process/workflows/just_sleep_2/Process_create_sleep">
     <displayName>create_sleep</displayName>
