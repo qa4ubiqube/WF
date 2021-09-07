@@ -39,7 +39,7 @@
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>just_sleep_2</name>
+    <name>just_sleep</name>
     <group/>
   </information>
 </ObjectDefinition>
