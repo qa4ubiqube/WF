@@ -31,10 +31,6 @@
       <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_create_sleep/Tasks</processPath>
       <displayName>sleep</displayName>
     </task>
-    <task name="Task_AAA.php">
-      <processPath>/opt/fmc_repository/Process/workflows/just_sleep_2/Process_create_sleep/Tasks</processPath>
-      <displayName>AAA</displayName>
-    </task>
   </process>
   <information>
     <icon/>
