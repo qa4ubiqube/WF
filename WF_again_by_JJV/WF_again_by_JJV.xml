@@ -43,10 +43,6 @@
       <processPath></processPath>
       <displayName>copy of aaa</displayName>
     </task>
-    <task name="Process/workflows/WF_again_by_JJV/Process_p2/Tasks/Task_bbbb.py">
-      <processPath></processPath>
-      <displayName>copy of bbb</displayName>
-    </task>
   </process>
   <information>
     <icon/>
