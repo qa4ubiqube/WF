@@ -43,10 +43,6 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_p2/Tasks</processPath>
       <displayName>t44</displayName>
     </task>
-    <task name="Process/workflows/WF_by_JJV/Process_p2/Tasks/Task_t11.php">
-      <processPath></processPath>
-      <displayName>nnnnn</displayName>
-    </task>
   </process>
   <process name="Process/workflows/WF_by_JJV/Process_process_1_">
     <displayName>process 1 </displayName>
