@@ -27,10 +27,6 @@
     <type>CREATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
-    <task name="Task_aaaa.py">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_again_by_JJV/Process_p2/Tasks</processPath>
-      <displayName>aaaa</displayName>
-    </task>
     <task name="Task_bbbb.py">
       <processPath>/opt/fmc_repository/Process/workflows/WF_again_by_JJV/Process_p2/Tasks</processPath>
       <displayName>bbbb</displayName>
