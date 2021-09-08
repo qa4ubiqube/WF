@@ -23,9 +23,9 @@
       <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byAdmin/Process_p2/Tasks</processPath>
       <displayName>t11</displayName>
     </task>
-    <task name="Task_t22.py">
-      <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byAdmin/Process_p2/Tasks</processPath>
-      <displayName>t22</displayName>
+    <task name="Process/workflows/TestWorkflowWZF_byAdmin/Process_p2/Tasks/Task_t22.py">
+      <processPath></processPath>
+      <displayName>22new</displayName>
     </task>
     <task name="Task_t33.py">
       <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byAdmin/Process_p2/Tasks</processPath>
