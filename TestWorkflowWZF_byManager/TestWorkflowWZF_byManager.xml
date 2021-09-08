@@ -14,6 +14,24 @@
       <displayName>Task1</displayName>
     </task>
   </process>
+  <process name="Process/workflows/TestWorkflowWZF_byManager/Process_p2">
+    <displayName>p2</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_t1.py">
+      <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byManager/Process_p2/Tasks</processPath>
+      <displayName>t1</displayName>
+    </task>
+    <task name="Task_t2.py">
+      <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byManager/Process_p2/Tasks</processPath>
+      <displayName>t2</displayName>
+    </task>
+    <task name="Task_t3.py">
+      <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byManager/Process_p2/Tasks</processPath>
+      <displayName>t3</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description>This is the description of Test WF</description>
