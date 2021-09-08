@@ -17,9 +17,9 @@
       <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks</processPath>
       <displayName>zzzz</displayName>
     </task>
-    <task name="Task_tttt.py">
-      <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks</processPath>
-      <displayName>tttt</displayName>
+    <task name="Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks/Task_tttt.py">
+      <processPath></processPath>
+      <displayName>ee</displayName>
     </task>
   </process>
   <information>
