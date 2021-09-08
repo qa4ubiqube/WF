@@ -44,6 +44,24 @@
       <displayName>t4bis</displayName>
     </task>
   </process>
+  <process name="Process/workflows/WF_by_JJV/Process_process_3_">
+    <displayName>process 3 </displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_t1.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
+      <displayName>t1</displayName>
+    </task>
+    <task name="Task_t2.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
+      <displayName>t2</displayName>
+    </task>
+    <task name="Task_t3.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
+      <displayName>t3</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
