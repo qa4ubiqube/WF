@@ -17,9 +17,23 @@
       <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks</processPath>
       <displayName>zzzz</displayName>
     </task>
-    <task name="Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks/Task_tttt.py">
-      <processPath></processPath>
-      <displayName>ee</displayName>
+  </process>
+  <process name="Process/workflows/Test_WorkflowWZF/Process_p222">
+    <displayName>p222</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_t1.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_p222/Tasks</processPath>
+      <displayName>t1</displayName>
+    </task>
+    <task name="Task_t2.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_p222/Tasks</processPath>
+      <displayName>t2</displayName>
+    </task>
+    <task name="Task_t3.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_p222/Tasks</processPath>
+      <displayName>t3</displayName>
     </task>
   </process>
   <information>
