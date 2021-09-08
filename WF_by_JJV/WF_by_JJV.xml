@@ -8,6 +8,24 @@
     <variable displayName="ref" name="params.ref" startIncrement="0" type="OBMFRef" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
   </variables>
   <example/>
+  <process name="Process/workflows/WF_by_JJV/Process_process_3_">
+    <displayName>process 3 </displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_t1.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
+      <displayName>t1</displayName>
+    </task>
+    <task name="Task_t2.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
+      <displayName>t2</displayName>
+    </task>
+    <task name="Task_t3.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
+      <displayName>t3</displayName>
+    </task>
+  </process>
   <process name="Process/workflows/WF_by_JJV/Process_p2">
     <displayName>p2</displayName>
     <type>CREATE</type>
@@ -42,24 +60,6 @@
     <task name="Process/workflows/WF_by_JJV/Process_process_1_/Tasks/Task_t4.php">
       <processPath></processPath>
       <displayName>t4bis</displayName>
-    </task>
-  </process>
-  <process name="Process/workflows/WF_by_JJV/Process_process_3_">
-    <displayName>process 3 </displayName>
-    <type>CREATE</type>
-    <visibility>5</visibility>
-    <allowSchedule/>
-    <task name="Task_t1.php">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
-      <displayName>t1</displayName>
-    </task>
-    <task name="Task_t2.php">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
-      <displayName>t2</displayName>
-    </task>
-    <task name="Task_t3.php">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
-      <displayName>t3</displayName>
     </task>
   </process>
   <information>
