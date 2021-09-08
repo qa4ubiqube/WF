@@ -1,11 +1,7 @@
 <ObjectDefinition>
   <variables frozen="0">
-    <variable displayName="var_name" name="params.var_name" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false">
-      <values/>
-    </variable>
-    <variable displayName="var_name2" name="params.var_name2" startIncrement="0" type="Integer" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false">
-      <values/>
-    </variable>
+    <variable displayName="var_name" name="params.var_name" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
+    <variable displayName="var_name2" name="params.var_name2" startIncrement="0" type="Integer" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
   </variables>
   <example/>
   <process name="Process/workflows/WF_by_JJV/Process_process_1_">
@@ -17,9 +13,9 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_1_/Tasks</processPath>
       <displayName>t1</displayName>
     </task>
-    <task name="Task_t2.php">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_1_/Tasks</processPath>
-      <displayName>t2</displayName>
+    <task name="Process/workflows/WF_by_JJV/Process_process_1_/Tasks/Task_t2.php">
+      <processPath></processPath>
+      <displayName>t2bis</displayName>
     </task>
     <task name="Task_t3.php">
       <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_1_/Tasks</processPath>
