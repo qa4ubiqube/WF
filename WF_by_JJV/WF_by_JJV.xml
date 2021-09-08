@@ -25,6 +25,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_3_/Tasks</processPath>
       <displayName>t3</displayName>
     </task>
+    <task name="Process/workflows/WF_by_JJV/Process_process_3_/Tasks/Task_t1.php">
+      <processPath></processPath>
+      <displayName>t1_copy</displayName>
+    </task>
   </process>
   <process name="Process/workflows/WF_by_JJV/Process_p2">
     <displayName>p2</displayName>
