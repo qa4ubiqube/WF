@@ -13,9 +13,9 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_again_by_JJV/Process_p1/Tasks</processPath>
       <displayName>t1</displayName>
     </task>
-    <task name="Task_t2.py">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_again_by_JJV/Process_p1/Tasks</processPath>
-      <displayName>t2</displayName>
+    <task name="Process/workflows/WF_again_by_JJV/Process_p1/Tasks/Task_t2.py">
+      <processPath></processPath>
+      <displayName>t2bis</displayName>
     </task>
     <task name="Task_t3.py">
       <processPath>/opt/fmc_repository/Process/workflows/WF_again_by_JJV/Process_p1/Tasks</processPath>
