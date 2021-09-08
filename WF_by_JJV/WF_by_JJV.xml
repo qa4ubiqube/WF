@@ -13,17 +13,13 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_1_/Tasks</processPath>
       <displayName>t1</displayName>
     </task>
-    <task name="Process/workflows/WF_by_JJV/Process_process_1_/Tasks/Task_t2.php">
-      <processPath></processPath>
-      <displayName>t2bis</displayName>
-    </task>
     <task name="Task_t3.php">
       <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_1_/Tasks</processPath>
       <displayName>t3</displayName>
     </task>
-    <task name="Task_t4.php">
-      <processPath>/opt/fmc_repository/Process/workflows/WF_by_JJV/Process_process_1_/Tasks</processPath>
-      <displayName>t4</displayName>
+    <task name="Process/workflows/WF_by_JJV/Process_process_1_/Tasks/Task_t4.php">
+      <processPath></processPath>
+      <displayName>t4bis</displayName>
     </task>
   </process>
   <information>
