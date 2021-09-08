@@ -39,6 +39,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/WF_again_by_JJV/Process_p2/Tasks</processPath>
       <displayName>ccccc</displayName>
     </task>
+    <task name="Process/workflows/WF_again_by_JJV/Process_p2/Tasks/Task_aaaa.py">
+      <processPath></processPath>
+      <displayName>copy of aaa</displayName>
+    </task>
   </process>
   <information>
     <icon/>
