@@ -27,13 +27,13 @@
       <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_p222/Tasks</processPath>
       <displayName>t1</displayName>
     </task>
-    <task name="Task_t2.py">
-      <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_p222/Tasks</processPath>
-      <displayName>t2</displayName>
-    </task>
     <task name="Task_t3.py">
       <processPath>/opt/fmc_repository/Process/workflows/Test_WorkflowWZF/Process_p222/Tasks</processPath>
       <displayName>t3</displayName>
+    </task>
+    <task name="Process/workflows/Test_WorkflowWZF/Process_p222/Tasks/Task_t2.py">
+      <processPath></processPath>
+      <displayName>new</displayName>
     </task>
   </process>
   <information>
