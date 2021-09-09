@@ -3,11 +3,11 @@
     <map>
         <entry>
             <key>DISPLAYNAME</key>
-            <value>qaGitLibWF.xml</value>
+            <value>Task_T1.py</value>
         </entry>
         <entry>
             <key>DATE_MODIFICATION</key>
-            <value>1631144893120</value>
+            <value>1618387194102</value>
         </entry>
         <entry>
             <key>REPOSITORY</key>
@@ -15,7 +15,7 @@
         </entry>
         <entry>
             <key>DATE_CREATION</key>
-            <value>1631144893115</value>
+            <value>1618387194098</value>
         </entry>
         <entry>
             <key>TAG</key>
