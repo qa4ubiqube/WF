@@ -10,7 +10,7 @@ headers = {
             'Authorization': 'Bearer {}'.format(Variables.task_call()['TOKEN']),
         }
 res = requests.get('http://localhost:8480/ubi-api-rest/system-admin/v1/msa_vars?name='.format('UBI_SMTP_IPADDR'))
-
+print(Variables.task_call()['TOKEN'])
 print(res)
 
 
