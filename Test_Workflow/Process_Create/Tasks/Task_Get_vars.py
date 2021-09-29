@@ -10,10 +10,10 @@ headers = {
             'Authorization': 'Bearer {}'.format(Variables.task_call()['TOKEN']),
         }
 res = requests.get('http://localhost:8480/ubi-api-rest/system-admin/v1/msa_vars?name={}'.format('UBI_SMTP_IPADDR'), headers=headers)
-print(Variables.task_call()['TOKEN'])
-print(res)
+
+print(res.json())
 
 
-ret = MSA_API.process_content('ENDED', 'Task OK ' + res.json(), context, True)
+ret = MSA_API.process_content('ENDED', 'Task OK ' + res.json()[0]['value'], context, True)
 print(ret)
 
