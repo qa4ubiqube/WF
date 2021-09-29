@@ -8,7 +8,7 @@ from msa_sdk.util import util
 import requests
 
 res = util.get_vars_value('UBI_SMTP_IPADDR')
-
+context = Variables.task_call()
 ret = MSA_API.process_content('ENDED', 'Task OK ' + res, context, True)
 print(ret)
 
