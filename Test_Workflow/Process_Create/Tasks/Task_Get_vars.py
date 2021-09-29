@@ -34,6 +34,11 @@ NOTE : For 'wo_newparams', always pass "context" [whether wo_status is ENDED/FAI
 The response "ret" should be echoed from the Task "print(ret)" which is read by Orchestration Engine
 In case of FAILURE/WARNING, the Task can be Terminated by calling "exit" as per Logic
 '''
-ret = MSA_API.process_content('ENDED', 'Task OK', context, True)
+MSA_API.path = 'system-admin/v1/msa_vars?name={}'.format('UBI_SMTP_IPADDR')
+res = MSA_API._call_get()
+
+
+
+ret = MSA_API.process_content('ENDED', 'Task OK ' + res, context, True)
 print(ret)
 
