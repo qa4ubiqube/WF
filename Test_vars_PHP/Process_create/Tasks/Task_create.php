@@ -15,6 +15,6 @@ $var = get_vars_value('UBI_SMTP_IPADDR');
 /**
  * End of the task (choose one)
  */
-task_success('Task OK');
+task_success('Task OK ' . $var);
 task_error('Task FAILED');
 ?>
