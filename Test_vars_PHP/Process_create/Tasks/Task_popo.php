@@ -12,7 +12,7 @@ function list_args()
 {
 }
 
-$var = get_vars_value('UBI_SMTP_IPADDR');
+$var = get_vars_value('UBI_SMTP_IPADDR666');
 /**
  * End of the task (choose one)
  */
