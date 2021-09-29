@@ -12,6 +12,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/Test_Workflow/Process_Create/Tasks</processPath>
       <displayName>Get vars</displayName>
     </task>
+    <task name="Task_dsdsdsdsdd.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Test_Workflow/Process_Create/Tasks</processPath>
+      <displayName>dsdsdsds</displayName>
+    </task>
   </process>
   <information>
     <icon/>
