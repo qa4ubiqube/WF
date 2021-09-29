@@ -11,7 +11,7 @@ headers = {
         }
 res = requests.get('http://localhost:8480/ubi-api-rest/system-admin/v1/msa_vars?name={}'.format('UBI_SMTP_IPADDR'), headers=headers)
 
-
+context = Variables.task_call()
 
 ret = MSA_API.process_content('ENDED', 'Task OK ' + res.json()[0]['value'], context, True)
 print(ret)
