@@ -10,6 +10,10 @@
       <processPath>/opt/fmc_repository/Process/workflows/ownermanagerNNN/Process_NNNP1/Tasks</processPath>
       <displayName>NNNT1</displayName>
     </task>
+    <task name="Task_newT.php">
+      <processPath>/opt/fmc_repository/Process/workflows/ownermanagerNNN/Process_NNNP1/Tasks</processPath>
+      <displayName>newT</displayName>
+    </task>
   </process>
   <process name="Process/workflows/ownermanagerNNN/Process_NNNP2">
     <displayName>NNNP2</displayName>
