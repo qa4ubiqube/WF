@@ -1,6 +1,30 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/test10371/Process_P1">
+    <displayName>P1</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_T1.py">
+      <processPath>/opt/fmc_repository/Process/workflows/test10371/Process_P1/Tasks</processPath>
+      <displayName>T1</displayName>
+    </task>
+    <task name="Task_T2.py">
+      <processPath>/opt/fmc_repository/Process/workflows/test10371/Process_P1/Tasks</processPath>
+      <displayName>T2</displayName>
+    </task>
+  </process>
+  <process name="Process/workflows/test10371/Process_P2">
+    <displayName>P2</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_T3.py">
+      <processPath>/opt/fmc_repository/Process/workflows/test10371/Process_P2/Tasks</processPath>
+      <displayName>T3</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
