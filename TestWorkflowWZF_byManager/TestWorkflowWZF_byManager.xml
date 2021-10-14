@@ -13,10 +13,6 @@
       <processPath></processPath>
       <displayName>Task1</displayName>
     </task>
-    <task name="Task_task2.py">
-      <processPath>/opt/fmc_repository/Process/workflows/TestWorkflowWZF_byManager/Process_Process1/Tasks</processPath>
-      <displayName>task2</displayName>
-    </task>
   </process>
   <information>
     <icon/>
