@@ -13,6 +13,14 @@
       <processPath></processPath>
       <displayName>Task1</displayName>
     </task>
+    <task name="Process/workflows/TestWorkflowWZF_byManager/Process_Process1/Tasks/Task_Task1.py">
+      <processPath></processPath>
+      <displayName>t11</displayName>
+    </task>
+    <task name="Process/workflows/TestWorkflowWZF_byManager/Process_Process1/Tasks/Task_Task1.py">
+      <processPath></processPath>
+      <displayName>t111</displayName>
+    </task>
   </process>
   <information>
     <icon/>
