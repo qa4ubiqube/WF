@@ -13,6 +13,10 @@
       <processPath></processPath>
       <displayName>new_t1</displayName>
     </task>
+    <task name="Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks/Task_t1.py">
+      <processPath></processPath>
+      <displayName>newnew</displayName>
+    </task>
   </process>
   <information>
     <icon/>
