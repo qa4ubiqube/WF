@@ -13,10 +13,6 @@
       <processPath></processPath>
       <displayName>Task1</displayName>
     </task>
-    <task name="Process/workflows/TestWorkflowWZF_byManager/Process_Process1/Tasks/Task_task2.py">
-      <processPath></processPath>
-      <displayName>t2_newnew</displayName>
-    </task>
   </process>
   <information>
     <icon/>
