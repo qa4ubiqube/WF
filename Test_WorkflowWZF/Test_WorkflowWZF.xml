@@ -9,10 +9,6 @@
     <type>CREATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
-    <task name="Process/workflows/Test_WorkflowWZF/Process_Process1/Tasks/Task_Task1.py">
-      <processPath></processPath>
-      <displayName>Task1</displayName>
-    </task>
   </process>
   <information>
     <icon/>
