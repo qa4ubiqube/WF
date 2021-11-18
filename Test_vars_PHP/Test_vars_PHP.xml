@@ -1,0 +1,24 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <process name="Process/workflows/Test_vars_PHP/Process_create">
+    <displayName>create</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule>true</allowSchedule>
+    <task name="Task_popo.php">
+      <processPath>/opt/fmc_repository/Process/workflows/Test_vars_PHP/Process_create/Tasks</processPath>
+      <displayName>popo</displayName>
+    </task>
+  </process>
+  <information>
+    <icon/>
+    <description/>
+    <displayField>service_id</displayField>
+    <serviceTaskType>php</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>Test vars PHP</name>
+    <group/>
+  </information>
+</ObjectDefinition>

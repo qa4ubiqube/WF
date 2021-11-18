@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+[branch "master"]
+	merge = refs/heads/master
+	remote = origin
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://github.com/sergey-trofimov/testRepository2.git

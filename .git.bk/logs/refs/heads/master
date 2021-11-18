@@ -1,0 +1,93 @@
+0000000000000000000000000000000000000000 aae7c311ab77290e40822c8e380039d7b309ed8d jboss <jboss@cb72bbf2ebed> 1606475696 +0000	commit (initial): Initial commit with existing files
+aae7c311ab77290e40822c8e380039d7b309ed8d 1aa8e6e913289948d065c44bf94e4934438b12ed jboss <jboss@cb72bbf2ebed> 1606475698 +0000	merge branch 'master' of https://github.com/sergey-trofimov/testRepository2.git: Merge made by recursive.
+1aa8e6e913289948d065c44bf94e4934438b12ed b3d492d97ac3a60cbbdf7a73a778b4aff91f1500 jboss <jboss@35cb24555ae7> 1606873126 +0000	commit: Initial commit with existing files
+b3d492d97ac3a60cbbdf7a73a778b4aff91f1500 4acb7c69e19edb4c157322afa2b62d62b0171f59 jboss <jboss@35cb24555ae7> 1606907749 +0000	commit: Initial commit with existing files
+4acb7c69e19edb4c157322afa2b62d62b0171f59 11a0b8e9e39b2839c1086a0d84f45c7447778acd jboss <jboss@35cb24555ae7> 1606907749 +0000	commit: Creating workflow on 02-12-2020 11:15:49 -null
+11a0b8e9e39b2839c1086a0d84f45c7447778acd 9439cc98bf596ecd2c7b1b50ad163533a7caf9a6 jboss <jboss@35cb24555ae7> 1606907924 +0000	commit: Initial commit with existing files
+9439cc98bf596ecd2c7b1b50ad163533a7caf9a6 d5f7991189253155d0bd3d6f3053e274203b1eae jboss <jboss@35cb24555ae7> 1606907924 +0000	commit: Creating workflow on 02-12-2020 11:18:44 -null
+d5f7991189253155d0bd3d6f3053e274203b1eae 4c736dc366ff4b0ebe7fd1eb598894449d91e5c5 jboss <jboss@35cb24555ae7> 1606964421 +0000	commit: Initial commit with existing files
+4c736dc366ff4b0ebe7fd1eb598894449d91e5c5 77b7c2c31861ad39381ef3f696b585b9998f44e1 jboss <jboss@35cb24555ae7> 1606964421 +0000	commit: Creating workflow on 03-12-2020 03:00:21 -null
+77b7c2c31861ad39381ef3f696b585b9998f44e1 04a10645531f5377883f6cd8d4f2ecf8060153d1 jboss <jboss@05947a49c14a> 1606990117 +0000	commit: Initial commit with existing files
+04a10645531f5377883f6cd8d4f2ecf8060153d1 7da3a0409ac491c49da44e5b4eba80016664ad28 jboss <jboss@05947a49c14a> 1606993962 +0000	commit: Initial commit with existing files
+7da3a0409ac491c49da44e5b4eba80016664ad28 7733d591bea2fc156cf4aa660a53c2151f43c2b2 jboss <jboss@05947a49c14a> 1606993962 +0000	commit: Creating workflow on 03-12-2020 11:12:42 -null
+7733d591bea2fc156cf4aa660a53c2151f43c2b2 ff7eee55c82ac87fd212dbeb1d25bd6ccb301e7a jboss <jboss@05947a49c14a> 1606994322 +0000	commit: Initial commit with existing files
+ff7eee55c82ac87fd212dbeb1d25bd6ccb301e7a ce86d84ecdc6cf05a0548ba6ba1e3a84f8a4acb9 jboss <jboss@05947a49c14a> 1606994322 +0000	commit: Updating workflow on 03-12-2020 11:18:42 -null
+ce86d84ecdc6cf05a0548ba6ba1e3a84f8a4acb9 ec038e0888c056f02e1a36235208e67f8f3a18d9 jboss <jboss@05947a49c14a> 1606999989 +0000	commit: Initial commit with existing files
+ec038e0888c056f02e1a36235208e67f8f3a18d9 64d579599dc1731b4cac56e75ffb9b6a6e7359c4 jboss <jboss@05947a49c14a> 1606999989 +0000	commit: Deleting workflow on03-12-2020 12:53:09 -ncroot
+64d579599dc1731b4cac56e75ffb9b6a6e7359c4 fef06d6eaa7d4441d346da9645d8b6396722de3b jboss <jboss@05947a49c14a> 1607000009 +0000	commit: Initial commit with existing files
+fef06d6eaa7d4441d346da9645d8b6396722de3b f58316f72d7e918338e04d9a719f49a6625f4608 jboss <jboss@05947a49c14a> 1607000009 +0000	commit: Deleting workflow on03-12-2020 12:53:29 -ncroot
+f58316f72d7e918338e04d9a719f49a6625f4608 2d68b9f967c31a740852b338ec3abb610b097e3c jboss <jboss@05947a49c14a> 1607055071 +0000	commit: Initial commit with existing files
+2d68b9f967c31a740852b338ec3abb610b097e3c 2dd9a5dbe3c618b2347ff050ab64d621b734733b jboss <jboss@05947a49c14a> 1607055071 +0000	commit: Updating workflow on 04-12-2020 04:11:11 -null
+2dd9a5dbe3c618b2347ff050ab64d621b734733b daa0b8c89ae0df3f67ea10ffe71b922513cdfd5c jboss <jboss@05947a49c14a> 1607055144 +0000	commit: Initial commit with existing files
+daa0b8c89ae0df3f67ea10ffe71b922513cdfd5c 3891394b3791963ad93a550d6caa5a4c570452e5 jboss <jboss@05947a49c14a> 1607055144 +0000	commit: Updating workflow on 04-12-2020 04:12:24 -null
+3891394b3791963ad93a550d6caa5a4c570452e5 cbdd98209a5310e8f199acc6f26a24d43e6d1aa9 jboss <jboss@05947a49c14a> 1607313525 +0000	commit: Initial commit with existing files
+cbdd98209a5310e8f199acc6f26a24d43e6d1aa9 0405dae4d95da4183bfbeec34f60adbf729581c2 jboss <jboss@05947a49c14a> 1607313525 +0000	commit: Creating workflow on 07-12-2020 03:58:45 -null
+0405dae4d95da4183bfbeec34f60adbf729581c2 288515951d78839238d65c3873cb5def123c99ad jboss <jboss@05947a49c14a> 1607313674 +0000	commit: Initial commit with existing files
+288515951d78839238d65c3873cb5def123c99ad 08bde486cc01fc06071b6debab40cc881d41dedb jboss <jboss@05947a49c14a> 1607313674 +0000	commit: Creating workflow on 07-12-2020 04:01:14 -null
+08bde486cc01fc06071b6debab40cc881d41dedb 8328a2d15b15976c5d2bf5ba6829a101718bb8a9 jboss <jboss@05947a49c14a> 1607313702 +0000	commit: Initial commit with existing files
+8328a2d15b15976c5d2bf5ba6829a101718bb8a9 bda16273a8d3e8367bd2a0f44b2759f2adfc88a0 jboss <jboss@05947a49c14a> 1607313702 +0000	commit: Updating workflow on 07-12-2020 04:01:42 -null
+bda16273a8d3e8367bd2a0f44b2759f2adfc88a0 80e010176fc772bedfcdc41b30f442ba52f48dd1 jboss <jboss@05947a49c14a> 1607313818 +0000	commit: Initial commit with existing files
+80e010176fc772bedfcdc41b30f442ba52f48dd1 2749162be238176feed9f0445aa686c3250884de jboss <jboss@05947a49c14a> 1607313818 +0000	commit: Updating workflow on 07-12-2020 04:03:38 -null
+2749162be238176feed9f0445aa686c3250884de 494cf80aa747d03ce7260af2cffe158d083521f2 jboss <jboss@aeb02eca0dcb> 1607330279 +0000	commit: Initial commit with existing files
+494cf80aa747d03ce7260af2cffe158d083521f2 49364fdcf4ad6411a3061ea1020519e8fe78759d jboss <jboss@aeb02eca0dcb> 1607349468 +0000	commit: Initial commit with existing files
+49364fdcf4ad6411a3061ea1020519e8fe78759d a7f64cb89696739b2b4c209488f87ca7b82ab706 jboss <jboss@aeb02eca0dcb> 1607349468 +0000	commit: Creating workflow on 07-12-2020 13:57:48 -null
+a7f64cb89696739b2b4c209488f87ca7b82ab706 a794fb92849fa6327b414ad497fde4c8f4529b14 jboss <jboss@aeb02eca0dcb> 1607418525 +0000	commit: Initial commit with existing files
+a794fb92849fa6327b414ad497fde4c8f4529b14 3c6ac402c3587a392d46b43cfcf8f0a0b24b8077 jboss <jboss@aeb02eca0dcb> 1607418525 +0000	commit: Updating workflow on 08-12-2020 09:08:45 -null
+3c6ac402c3587a392d46b43cfcf8f0a0b24b8077 d1411a5264e19ccf8a610d396b662ef7b29a7536 jboss <jboss@aeb02eca0dcb> 1607510276 +0000	commit: Initial commit with existing files
+d1411a5264e19ccf8a610d396b662ef7b29a7536 246f1af610b7e5df4aea319436847fa3140590dd jboss <jboss@aeb02eca0dcb> 1607510276 +0000	commit: Creating workflow on 09-12-2020 10:37:56 -null
+246f1af610b7e5df4aea319436847fa3140590dd 868962c685235a51031794674c16c13b4b547b2f jboss <jboss@aeb02eca0dcb> 1607510314 +0000	commit: Initial commit with existing files
+868962c685235a51031794674c16c13b4b547b2f d66c08a6213cfbb5b55fb92c47747a2e56c737d2 jboss <jboss@aeb02eca0dcb> 1607510314 +0000	commit: Updating workflow on 09-12-2020 10:38:34 -null
+d66c08a6213cfbb5b55fb92c47747a2e56c737d2 285533aa5c39d95582699dbf4f744e2509516876 jboss <jboss@aeb02eca0dcb> 1607516616 +0000	commit: Initial commit with existing files
+285533aa5c39d95582699dbf4f744e2509516876 c7e81776e9a3e98feae3d8a15a5202e9106126ea jboss <jboss@aeb02eca0dcb> 1607516616 +0000	commit: Creating workflow on 09-12-2020 12:23:36 -null
+c7e81776e9a3e98feae3d8a15a5202e9106126ea 7e936f9873833c65533a3846d705597ba55d0966 jboss <jboss@aeb02eca0dcb> 1607516654 +0000	commit: Initial commit with existing files
+7e936f9873833c65533a3846d705597ba55d0966 4df5ad128eea6f4c61d06c9c7ce1bd006ed2606b jboss <jboss@aeb02eca0dcb> 1607516654 +0000	commit: Updating workflow on 09-12-2020 12:24:14 -null
+4df5ad128eea6f4c61d06c9c7ce1bd006ed2606b 82e542a3e9a6254ac8c4fe7a807c16709f142089 jboss <jboss@06beb01f9d67> 1607678534 +0000	commit: Initial commit with existing files
+82e542a3e9a6254ac8c4fe7a807c16709f142089 b74f31c0be6a833f027c25b9218e01130ed4e5bb jboss <jboss@06beb01f9d67> 1607938510 +0000	commit: 14-12-2020 09:35:10 - Deleting microservice on  - ncroot
+b74f31c0be6a833f027c25b9218e01130ed4e5bb 757349ada9297ad81ca7d390479baccd5c136121 jboss <jboss@06beb01f9d67> 1607938514 +0000	commit: Deleting workflow on
+757349ada9297ad81ca7d390479baccd5c136121 3abf654917e3326d3d860565386da46b79ac39bd jboss <jboss@e660ca09a5e5> 1607953700 +0000	commit: Initial commit with existing files
+3abf654917e3326d3d860565386da46b79ac39bd 24f6753b39a32db4e6c4315b38a1d099b405f2e3 jboss <jboss@0b3263c1a7b5> 1608171607 +0000	commit: Initial commit with existing files
+24f6753b39a32db4e6c4315b38a1d099b405f2e3 8ebc99e0a6bf7ebfa4f2a6dd97aface2b0ad0d83 jboss <jboss@bb69131a3e8c> 1608719997 +0000	commit: Initial commit with existing files
+8ebc99e0a6bf7ebfa4f2a6dd97aface2b0ad0d83 55cf8f401d421760defa3687a2dd2e833e998813 jboss <jboss@5cd5f509f9ba> 1608856886 +0000	commit: Initial commit with existing files
+55cf8f401d421760defa3687a2dd2e833e998813 bad6b7822fb864af0116990f4105342efb477661 jboss <jboss@36c348d55a0b> 1609831583 +0000	commit: Initial commit with existing files
+bad6b7822fb864af0116990f4105342efb477661 59b65ff0f0071bef146e7ba1af57ccd7ce8d4ab8 jboss <jboss@1070f3713cf3> 1609839147 +0000	commit: Initial commit with existing files
+59b65ff0f0071bef146e7ba1af57ccd7ce8d4ab8 e3ae913b195b16ed2aa5199fb4528d1f51faa066 jboss <jboss@189136d43712> 1609839438 +0000	commit: Initial commit with existing files
+e3ae913b195b16ed2aa5199fb4528d1f51faa066 dcc14233982dcfd91d4b0e14713c0f5b5cd7201d jboss <jboss@d86c9174e740> 1609839674 +0000	commit: Initial commit with existing files
+dcc14233982dcfd91d4b0e14713c0f5b5cd7201d 2667f0a79a271f04bafc5d2f5defe8b1d66c5b88 jboss <jboss@f92617745065> 1609840624 +0000	commit: Initial commit with existing files
+2667f0a79a271f04bafc5d2f5defe8b1d66c5b88 6e48ebd3f87681b8e7482cecd8220e8274749f5f jboss <jboss@f92617745065> 1609899196 +0000	commit: 06-01-2021 02:13:16 - Updating BPMN on  - ncroot
+6e48ebd3f87681b8e7482cecd8220e8274749f5f 20cfdedbde291c0087a4fffe1cc63efb3ebd66df jboss <jboss@f92617745065> 1609903205 +0000	commit: 06-01-2021 03:20:05 - Updating BPMN on  - ncroot
+20cfdedbde291c0087a4fffe1cc63efb3ebd66df b2e467b0d457723511a18d1405f5fb65c56fda14 jboss <jboss@f92617745065> 1609907238 +0000	commit: 06-01-2021 04:27:18 - Updating BPMN on  - ncroot
+b2e467b0d457723511a18d1405f5fb65c56fda14 527cf0faeac47bc3ab9e5324677b78757620ac01 jboss <jboss@f92617745065> 1609908762 +0000	commit: 06-01-2021 04:52:42 - Updating BPMN on  - ncroot
+527cf0faeac47bc3ab9e5324677b78757620ac01 d05a1810129521d1bd953e6d0cc3fb57c65584fd jboss <jboss@79f19d8f30e7> 1610381544 +0000	commit: Updating BPMN on  - 11-01-2021 16:12:24 - ncroot
+d05a1810129521d1bd953e6d0cc3fb57c65584fd f2e0e096ba99cee99ddf6c63d2d0e42f3b78f4db jboss <jboss@23b5a6f050d9> 1610588487 +0000	commit: Updating BPMN on  - 14-01-2021 01:41:27 - ncroot
+f2e0e096ba99cee99ddf6c63d2d0e42f3b78f4db c17a6e62c011a24e1be3b4aee3a0301942f7f8e2 jboss <jboss@23b5a6f050d9> 1610588763 +0000	commit: Updating BPMN on  - 14-01-2021 01:46:03 - ncroot
+c17a6e62c011a24e1be3b4aee3a0301942f7f8e2 071c91c937249b1c9db3a9e59f34fa4b7e99b51d jboss <jboss@23b5a6f050d9> 1610589025 +0000	commit: Updating BPMN on  - 14-01-2021 01:50:25 - ncroot
+071c91c937249b1c9db3a9e59f34fa4b7e99b51d a14894c76a0ff80f69689c70b2ea01464a4b5927 jboss <jboss@23b5a6f050d9> 1610589066 +0000	commit: Updating BPMN on  - 14-01-2021 01:51:06 - ncroot
+a14894c76a0ff80f69689c70b2ea01464a4b5927 20aac27f6eea6655343cb3a6dcf6f1bdfb37bfc7 jboss <jboss@23b5a6f050d9> 1610590398 +0000	commit: Updating BPMN on  - 14-01-2021 02:13:18 - ncroot
+20aac27f6eea6655343cb3a6dcf6f1bdfb37bfc7 a18e2e94681316090cfa87e4a7ae1184c5151231 jboss <jboss@23b5a6f050d9> 1610590408 +0000	commit: Updating BPMN on  - 14-01-2021 02:13:28 - ncroot
+a18e2e94681316090cfa87e4a7ae1184c5151231 99eed12c635401363a44f46111edaa36aa124df0 jboss <jboss@23b5a6f050d9> 1610590602 +0000	commit: Updating BPMN on  - 14-01-2021 02:16:42 - ncroot
+99eed12c635401363a44f46111edaa36aa124df0 7ab11c844314814fbb64a39327b82fefa92d81d9 jboss <jboss@23b5a6f050d9> 1610593383 +0000	commit: Deleting microservice on  - 14-01-2021 03:03:03 - ncroot
+7ab11c844314814fbb64a39327b82fefa92d81d9 ddf461ebd6a3bfb8c0e67724db6f15fa7a36a04a jboss <jboss@23b5a6f050d9> 1610593388 +0000	commit: Deleting workflow on
+ddf461ebd6a3bfb8c0e67724db6f15fa7a36a04a dea6ca2e611df19f0d03809757cb8d03bd95109f jboss <jboss@23b5a6f050d9> 1610593695 +0000	commit: Updating BPMN on  - 14-01-2021 03:08:15 - ncroot
+dea6ca2e611df19f0d03809757cb8d03bd95109f 0cecb4377b7bda72ecf6fc009a8b2cc03638d5dd jboss <jboss@23b5a6f050d9> 1610593706 +0000	commit: Updating BPMN on  - 14-01-2021 03:08:26 - ncroot
+0cecb4377b7bda72ecf6fc009a8b2cc03638d5dd 05710e51dde49227112c7edc545cbe4379e2d780 jboss <jboss@23b5a6f050d9> 1610593937 +0000	commit: Deleting microservice on  - 14-01-2021 03:12:17 - ncroot
+05710e51dde49227112c7edc545cbe4379e2d780 9f235880867542de305ac1b9b18eb804c0466bc1 jboss <jboss@23b5a6f050d9> 1610593940 +0000	commit: Deleting microservice on  - 14-01-2021 03:12:20 - ncroot
+9f235880867542de305ac1b9b18eb804c0466bc1 07eda42a3b954c7951c3b71c0fe3f2953122f69c jboss <jboss@23b5a6f050d9> 1610593942 +0000	commit: Deleting workflow on
+07eda42a3b954c7951c3b71c0fe3f2953122f69c a604e4921caf2b35199c0cb2c962dd5094470dbe jboss <jboss@23b5a6f050d9> 1610593943 +0000	commit: Deleting microservice on  - 14-01-2021 03:12:23 - ncroot
+a604e4921caf2b35199c0cb2c962dd5094470dbe d8a80702fd55123d5cdbf15647f5285e3adf29e3 jboss <jboss@23b5a6f050d9> 1610593945 +0000	commit: Deleting workflow on
+d8a80702fd55123d5cdbf15647f5285e3adf29e3 03f8798ba6cc4de34bb5a37d93d2a84058370126 jboss <jboss@23b5a6f050d9> 1610593947 +0000	commit: Deleting workflow on
+03f8798ba6cc4de34bb5a37d93d2a84058370126 1bf9f2a06e769bd03302fe954b6d290d11368c01 jboss <jboss@23b5a6f050d9> 1610947346 +0000	commit: Updating BPMN on  - 18-01-2021 05:22:26 - ncroot
+1bf9f2a06e769bd03302fe954b6d290d11368c01 bd0cfedf018a7f18878b1275c5f954f36e4b79be jboss <jboss@23b5a6f050d9> 1610947384 +0000	commit: Updating BPMN on  - 18-01-2021 05:23:04 - ncroot
+bd0cfedf018a7f18878b1275c5f954f36e4b79be d507bfa162651f5e536a19e28354f62e43da16ee jboss <jboss@23b5a6f050d9> 1610953945 +0000	commit: Updating BPMN on  - 18-01-2021 07:12:25 - ncroot
+d507bfa162651f5e536a19e28354f62e43da16ee 3b532d2af6e1b6545157e0df860f91d152d40802 jboss <jboss@7e9b3398cee6> 1610967334 +0000	commit: Updating BPMN on  - 18-01-2021 10:55:28 - ncroot
+3b532d2af6e1b6545157e0df860f91d152d40802 4e52af4c722dd9d52ed47e84dba59ee9aeddb716 jboss <jboss@7e9b3398cee6> 1610967347 +0000	commit: Updating BPMN on  - 18-01-2021 10:55:47 - ncroot
+4e52af4c722dd9d52ed47e84dba59ee9aeddb716 89335be733f8819a69f349cdf03505674a9ed657 jboss <jboss@7e9b3398cee6> 1610967482 +0000	commit: Updating BPMN on  - 18-01-2021 10:58:02 - ncroot
+89335be733f8819a69f349cdf03505674a9ed657 ff34ec02d97049382920761b367f313f91c33a8e jboss <jboss@93450c6e91f1> 1611043874 +0000	commit: Updating BPMN on  - 19-01-2021 08:11:07 - htoAdmin
+ff34ec02d97049382920761b367f313f91c33a8e d35135d333b159ec4aeb586ec91c7200da2405e9 jboss <jboss@8f418d4f0dea> 1611274577 +0000	commit: Creating workflow on  - 22-01-2021 00:16:10 - ncroot
+d35135d333b159ec4aeb586ec91c7200da2405e9 7c00de638d9c5cd8312901b65e57abc4605ba9e5 jboss <jboss@8f418d4f0dea> 1611274638 +0000	commit: Creating workflow on  - 22-01-2021 00:17:18 - ncroot
+7c00de638d9c5cd8312901b65e57abc4605ba9e5 a1a0bdb05b70b3ff3bb6298b358a867130aede58 jboss <jboss@8f418d4f0dea> 1611274685 +0000	commit: Deleting microservice on  - 22-01-2021 00:18:05 - ncroot
+a1a0bdb05b70b3ff3bb6298b358a867130aede58 36502c4ac9135d91d3af2652504d366f625565b8 jboss <jboss@8f418d4f0dea> 1611274778 +0000	commit: Updating BPMN on  - 22-01-2021 00:19:38 - ncroot
+36502c4ac9135d91d3af2652504d366f625565b8 3bde6d29ba697aa05e5034e3a240733d8ade01e3 jboss <jboss@8f418d4f0dea> 1611274804 +0000	commit: Updating workflow on  - 22-01-2021 00:20:04 - ncroot
+3bde6d29ba697aa05e5034e3a240733d8ade01e3 e9c3101b621eb308d3377ad26dc95d2f26fca44d jboss <jboss@8f418d4f0dea> 1611274828 +0000	commit: Updating BPMN on  - 22-01-2021 00:20:28 - ncroot
+e9c3101b621eb308d3377ad26dc95d2f26fca44d 64c0dcccca6cd72a610bab2141b0b746e5e5f935 jboss <jboss@8f418d4f0dea> 1611278818 +0000	commit: Creating workflow on  - 22-01-2021 01:26:58 - htoMan
+64c0dcccca6cd72a610bab2141b0b746e5e5f935 028ce6934c431e810c9ef8bc5236b6e2e6fa0110 jboss <jboss@b303f29085c6> 1611714167 +0000	commit: Updating BPMN on  - 27-01-2021 02:22:40 - ncroot
+028ce6934c431e810c9ef8bc5236b6e2e6fa0110 f7c5259590e549eb2e24dcd15d97692d1d054a98 jboss <jboss@b303f29085c6> 1611714192 +0000	commit: Updating BPMN on  - 27-01-2021 02:23:12 - ncroot
