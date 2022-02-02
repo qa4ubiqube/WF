@@ -5,9 +5,6 @@
         <class>CommandDefinition/LINUX/SYSTEM/CommandDefinition/LINUX/SYSTEM</class>
       </classes>
     </variable>
-    <variable displayName="list" name="params.list" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false">
-      <values/>
-    </variable>
   </variables>
   <example/>
   <process name="Process/workflows/WFWithReferencedMS/Process_create">
