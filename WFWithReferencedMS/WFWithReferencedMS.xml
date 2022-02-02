@@ -1,6 +1,25 @@
 <ObjectDefinition>
-  <variables frozen="0"/>
+  <variables frozen="0">
+    <variable displayName="ms" name="params.ms" startIncrement="0" type="OBMFRef" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" refDeviceIdVar="ABC123" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false">
+      <classes>
+        <class>CommandDefinition/LINUX/SYSTEM/CommandDefinition/LINUX/SYSTEM</class>
+      </classes>
+    </variable>
+    <variable displayName="list" name="params.list" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isMandatory="false" isUserLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false">
+      <values/>
+    </variable>
+  </variables>
   <example/>
+  <process name="Process/workflows/WFWithReferencedMS/Process_create">
+    <displayName>create</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_create.php">
+      <processPath>/opt/fmc_repository/Process/workflows/WFWithReferencedMS/Process_create/Tasks</processPath>
+      <displayName>create</displayName>
+    </task>
+  </process>
   <information>
     <icon/>
     <description/>
