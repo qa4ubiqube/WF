@@ -19,7 +19,7 @@ function list_args()
    *
    * Add as many variables as needed
    */
-  create_var_def('list', 'Microservice Reference');
+  create_var_def('ms', 'Microservice Reference');
 
 }
 
