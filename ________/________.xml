@@ -8,7 +8,7 @@
     <serviceTaskType>python</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>ݜ ݜ ݜ ݜ </name>
+    <name>test</name>
     <group/>
   </information>
 </ObjectDefinition>
