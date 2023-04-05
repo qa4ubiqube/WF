@@ -58,6 +58,7 @@
     <serviceTaskType>php</serviceTaskType>
     <order>10000</order>
     <visibility>0</visibility>
+    <processToAssiocateToTrashIcon/>
     <name>libraryTestWFWithoutToken</name>
     <group></group>
   </information>
