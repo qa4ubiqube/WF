@@ -14,7 +14,7 @@
     <serviceTaskType>python</serviceTaskType>
     <order>10000</order>
     <visibility>5</visibility>
-    <name>Provision an Kapsule Cluster (Scaleway)</name>
+    <name>[ENV] Provision an Kapsule Cluster (Scaleway)</name>
     <group/>
   </information>
 </ObjectDefinition>
