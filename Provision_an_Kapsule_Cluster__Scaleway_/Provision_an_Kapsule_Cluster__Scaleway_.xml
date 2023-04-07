@@ -6,6 +6,10 @@
     <type>CREATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
+    <task name="Task_Create_TF_Workspace.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Provision_an_Kapsule_Cluster__Scaleway_/Process_New_Fresh_ENV/Tasks</processPath>
+      <displayName>Create TF Workspace</displayName>
+    </task>
   </process>
   <information>
     <icon/>
