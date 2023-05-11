@@ -2,7 +2,7 @@
   <variables frozen="0"/>
   <example/>
   <process name="Process/workflows/Provision_Apps_Kapsule_Cluster/Process_Process_New_Deployment">
-    <displayName>Process_New_Deployment</displayName>
+    <displayName>New APP Deployment</displayName>
     <type>CREATE</type>
     <visibility>5</visibility>
     <allowSchedule/>
