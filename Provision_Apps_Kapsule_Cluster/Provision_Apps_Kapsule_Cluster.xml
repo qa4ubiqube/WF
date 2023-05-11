@@ -9,7 +9,7 @@
     <order>10000</order>
     <visibility>5</visibility>
     <processToAssiocateToTrashIcon/>
-    <name>Provision_Apps_Kapsule_Cluster</name>
+    <name>[APP] Provision Kapsule Apps (SCALEWAY)</name>
     <group/>
   </information>
 </ObjectDefinition>
