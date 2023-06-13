@@ -1,0 +1,14 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <information>
+    <icon/>
+    <description>This workflow allows to provision Scaleway (Kapsule) cluster based-on terraform configuration.</description>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>Provision an Kapsule Cluster (Scaleway)</name>
+    <group/>
+  </information>
+</ObjectDefinition>
