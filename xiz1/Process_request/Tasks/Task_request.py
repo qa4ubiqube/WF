@@ -18,7 +18,7 @@ dev_var.add('service_variables')
 
 context = Variables.task_call(dev_var)
 
-context['services_to_search'] = ["Process/Helloworld/Helloworld"]
+context['services_to_search'] = []
 context['service_instance_id'] = 0
 context['service_external_reference'] = ''
 context['process_instance_id'] = 0
