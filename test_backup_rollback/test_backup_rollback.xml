@@ -1,0 +1,52 @@
+<ObjectDefinition>
+  <variables frozen="0">
+    <variable displayName="device_id" name="params.device_id" startIncrement="0" type="Device" mandatoryArray="false" visible="true" description="" groupSeparator="" groupDisplayName="" maxLength="100" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" onlyDetailView="false" localVarNameMatch="" remoteVarNameMatch="" remoteVarToFilter="" remoteVarValueToFilter="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isCompositeKey="false" isMandatory="true" isUserLocked="false" isEditLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
+  </variables>
+  <example/>
+  <process name="Process/workflows/test_backup_rollback/Process_Select_device">
+    <displayName>get_device_list</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_get_device_list.py">
+      <processPath>/opt/fmc_repository/Process/workflows/test_backup_rollback/Process_Select_device/Tasks</processPath>
+      <displayName>get_device_list</displayName>
+    </task>
+  </process>
+  <process name="Process/workflows/test_backup_rollback/Process_backup_device">
+    <displayName>backup_device</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_backup_one_device.py">
+      <processPath>/opt/fmc_repository/Process/workflows/test_backup_rollback/Process_backup_device</processPath>
+      <displayName>backup devices</displayName>
+    </task>
+  </process>
+  <process name="Process/workflows/test_backup_rollback/Process_rollback_device">
+    <displayName>rollback_device</displayName>
+    <type>UPDATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_rollback_one_device.py">
+      <processPath>/opt/fmc_repository/Process/workflows/test_backup_rollback/Process_rollback_device</processPath>
+      <displayName>Release Lock task</displayName>
+    </task>
+  </process>
+  <process name="Process/workflows/test_backup_rollback/Process_delete">
+    <displayName>delete</displayName>
+    <type>DELETE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+  </process>
+  <information>
+    <icon/>
+    <description>test_backup_rollback</description>
+    <displayField>service_id</displayField>
+    <serviceTaskType>python</serviceTaskType>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <name>test_backup_rollback</name>
+    <group/>
+  </information>
+</ObjectDefinition>
