@@ -6,16 +6,8 @@
             <value>Task_get_device_list.py</value>
         </entry>
         <entry>
-            <key>DATE_MODIFICATION</key>
-            <value>1663163307534</value>
-        </entry>
-        <entry>
             <key>REPOSITORY</key>
             <value>Process</value>
-        </entry>
-        <entry>
-            <key>DATE_CREATION</key>
-            <value>1663163307531</value>
         </entry>
         <entry>
             <key>TAG</key>

@@ -10,7 +10,7 @@ dev_var = Variables()
 dev_var.add('device_id')
 context = Variables.task_call(dev_var)
  
-device_id            = context['device_id']
+device_id= context['device_id']
 
 
 MSA_API.task_success('OPERATION ENDED, device  = "' + device_id  + '" selectd',context, True)
