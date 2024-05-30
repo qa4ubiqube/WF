@@ -12,7 +12,7 @@
       <processPath>/opt/fmc_repository/Process/workflows/test_backup_rollback/Process_Select_device/Tasks</processPath>
       <displayName>get_device_list</displayName>
     </task>
-    <processConstraintsPath/>
+    <processConstraintsPath></processConstraintsPath>
   </process>
   <process name="Process/workflows/test_backup_rollback/Process_backup_device">
     <displayName>backup_device</displayName>
@@ -23,7 +23,7 @@
       <processPath>/opt/fmc_repository/Process/workflows/test_backup_rollback/Process_backup_device</processPath>
       <displayName>backup devices</displayName>
     </task>
-    <processConstraintsPath/>
+    <processConstraintsPath></processConstraintsPath>
   </process>
   <process name="Process/workflows/test_backup_rollback/Process_rollback_device">
     <displayName>rollback_device</displayName>
@@ -34,7 +34,7 @@
       <processPath>/opt/fmc_repository/Process/workflows/test_backup_rollback/Process_rollback_device</processPath>
       <displayName>Release Lock task</displayName>
     </task>
-    <processConstraintsPath/>
+    <processConstraintsPath></processConstraintsPath>
   </process>
   <information>
     <icon/>
