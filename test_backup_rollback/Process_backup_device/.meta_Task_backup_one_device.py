@@ -6,16 +6,8 @@
             <value>Task_backup_one_device.py</value>
         </entry>
         <entry>
-            <key>DATE_MODIFICATION</key>
-            <value>1663171016731</value>
-        </entry>
-        <entry>
             <key>REPOSITORY</key>
             <value>Process</value>
-        </entry>
-        <entry>
-            <key>DATE_CREATION</key>
-            <value>1663171016728</value>
         </entry>
         <entry>
             <key>TAG</key>
