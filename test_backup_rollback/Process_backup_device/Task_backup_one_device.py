@@ -19,7 +19,7 @@ context = Variables.task_call(dev_var)
 device_id            = context['device_id']
 device_list = []
 device_list.append({"id": device_id})
-list(context['device_list']) = device_list
+context['device_list'] = device_list
 
 result = backup_devices_configuration(device_list)
 # result={"date" : "14-09-2022 15:04:59", "message" : "SMS-CMD-FAILED","result" : "","revisionId" : -1,"status" : "FAIL"}
