@@ -30,7 +30,7 @@ Update context array [add/update/delete variables] as per requirement
 ENTER YOUR CODE HERE
 '''
 context = Variables.task_call(dev_var)
-context['var_name2'] = int(context['var_name2']) + 1
+
 
 '''
 Format of the Task response :
