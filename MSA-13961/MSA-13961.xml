@@ -14,7 +14,7 @@
       <processPath>/opt/fmc_repository/Process/workflows/MSA-13961/Process_Create/Tasks</processPath>
       <displayName>test</displayName>
     </task>
-    <processConstraintsPath/>
+    <processConstraintsPath></processConstraintsPath>
   </process>
   <information>
     <icon/>
