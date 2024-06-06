@@ -18,6 +18,7 @@ The allowed types are:
 dev_var = Variables()
 dev_var.add('tab.0.name', var_type='String')
 dev_var.add('tab.0.value', var_type='String')
+dev_var.add('xxx', var_type='String')
 
 
 '''
