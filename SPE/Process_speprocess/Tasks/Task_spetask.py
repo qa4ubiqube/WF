@@ -9,6 +9,8 @@ dev_var = Variables()
 dev_var.add('var_1', var_type='String')
 
 
+context = Variables.task_call(dev_var)
+
 ret = MSA_API.process_content('ENDED', 'Task OK', context, True)
 print(ret)
 
