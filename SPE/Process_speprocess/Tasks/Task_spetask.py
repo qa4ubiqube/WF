@@ -9,6 +9,8 @@ dev_var = Variables()
 dev_var.add('var_1.0.tab', var_type='String')
 dev_var.add('var_1.0.tab2', var_type='String')
 dev_var.add('var_1.0.tab2.0.test', var_type='String')
+dev_var.add('var_1.0.tab2.0.test2', var_type='String')
+dev_var.add('var_1.0.tab2.0.test3', var_type='String')
 
 
 context = Variables.task_call(dev_var)
