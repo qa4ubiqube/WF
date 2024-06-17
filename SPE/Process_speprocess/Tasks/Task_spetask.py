@@ -6,8 +6,11 @@ from msa_sdk.msa_api import MSA_API
 
 
 dev_var = Variables()
+dev_var.add('variable', var_type='String')
 dev_var.add('var1.0.tab', var_type='String')
 dev_var.add('var1.0.tab2', var_type='String')
+dev_var.add('var1.0.tab3', var_type='String')
+dev_var.add('var1.0.tab4', var_type='String')
 dev_var.add('var1.0.tab2.0.test', var_type='String')
 dev_var.add('var1.0.tab2.0.test2.1.test', var_type='String')
 dev_var.add('var1.0.tab2.0.test3.0.tzt', var_type='String')
