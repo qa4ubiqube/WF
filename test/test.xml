@@ -22,7 +22,7 @@
       <processPath>/opt/fmc_repository/Process/workflows/test/Process_process/Tasks</processPath>
       <displayName>task1</displayName>
     </task>
-    <processConstraintsPath/>
+    <processConstraintsPath></processConstraintsPath>
   </process>
   <information>
     <icon/>
