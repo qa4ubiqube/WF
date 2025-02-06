@@ -1,6 +1,17 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/Kenneth_Travis_RF/Process_Mrs._Cindy_Fisher_RF">
+    <displayName>Mrs. Cindy Fisher RF</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_name_Rebecca_Foley_RF.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Kenneth_Travis_RF/Process_Mrs._Cindy_Fisher_RF/Tasks</processPath>
+      <displayName>name=Rebecca Foley RF</displayName>
+    </task>
+    <processConstraintsPath/>
+  </process>
   <information>
     <icon/>
     <description>Best them positive they together.</description>
