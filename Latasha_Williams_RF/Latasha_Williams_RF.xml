@@ -1,6 +1,17 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/Latasha_Williams_RF/Process_Stephen_Hall_RF">
+    <displayName>Stephen Hall RF</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_name_Megan_Shields_RF.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Latasha_Williams_RF/Process_Stephen_Hall_RF/Tasks</processPath>
+      <displayName>name=Megan Shields RF</displayName>
+    </task>
+    <processConstraintsPath/>
+  </process>
   <information>
     <icon/>
     <description>Hair benefit trade PM shake stock happy.</description>
