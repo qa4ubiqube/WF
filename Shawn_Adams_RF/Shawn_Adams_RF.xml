@@ -1,6 +1,17 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/Shawn_Adams_RF/Process_Eric_Miller_RF">
+    <displayName>Eric Miller RF</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_name_Jessica_Fitzgerald_RF.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Shawn_Adams_RF/Process_Eric_Miller_RF/Tasks</processPath>
+      <displayName>name=Jessica Fitzgerald RF</displayName>
+    </task>
+    <processConstraintsPath/>
+  </process>
   <information>
     <icon/>
     <description>Note inside book my again.</description>
