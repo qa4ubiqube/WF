@@ -1,0 +1,16 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <information>
+    <icon/>
+    <description>Great hope item account loss help see fund police.</description>
+    <displayField>service_id</displayField>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <wfConstraintsPath></wfConstraintsPath>
+    <serviceTaskType>python</serviceTaskType>
+    <processToAssociateToTrashIcon/>
+    <name>Alexis Bell RF</name>
+    <group/>
+  </information>
+</ObjectDefinition>
