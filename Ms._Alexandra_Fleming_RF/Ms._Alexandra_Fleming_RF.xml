@@ -3,14 +3,14 @@
   <example/>
   <information>
     <icon/>
-    <description>Nation energy door view whose.</description>
+    <description>Water up use area operation follow ago even.</description>
     <displayField>service_id</displayField>
     <order>10000</order>
     <visibility>5</visibility>
     <wfConstraintsPath></wfConstraintsPath>
     <serviceTaskType>python</serviceTaskType>
     <processToAssociateToTrashIcon/>
-    <name>Ms. Alexandra Fleming RF</name>
+    <name>Jake Fuller RF</name>
     <group/>
   </information>
 </ObjectDefinition>
