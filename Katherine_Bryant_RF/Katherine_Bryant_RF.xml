@@ -1,0 +1,18 @@
+<ObjectDefinition>
+  <variables frozen="0">
+    <variable displayName="lindsay45" name="params.lindsay45" startIncrement="0" type="String" mandatoryArray="false" visible="true" description="Quite present central however simple final economic discuss cultural." groupSeparator="" groupDisplayName="" maxLength="100" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" uniqueItemsInDropDownList="false" onlyDetailView="false" createOnlyView="false" localVarNameMatch="" remoteVarNameMatch="" localVarToFilter="" remoteVarToFilter="" remoteVarValueToFilter="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isCompositeKey="false" isMandatory="false" isUserLocked="false" isEditLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
+  </variables>
+  <example/>
+  <information>
+    <icon/>
+    <description>Relationship create as concern theory affect me receive.</description>
+    <displayField>service_id</displayField>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <wfConstraintsPath></wfConstraintsPath>
+    <serviceTaskType>python</serviceTaskType>
+    <processToAssociateToTrashIcon/>
+    <name>Katherine Bryant RF</name>
+    <group/>
+  </information>
+</ObjectDefinition>
