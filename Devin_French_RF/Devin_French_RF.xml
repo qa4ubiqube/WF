@@ -3,14 +3,14 @@
   <example/>
   <information>
     <icon/>
-    <description>Hard involve girl mission involve.</description>
+    <description>Foot house crime risk.</description>
     <displayField>service_id</displayField>
     <order>10000</order>
     <visibility>5</visibility>
     <wfConstraintsPath></wfConstraintsPath>
     <serviceTaskType>python</serviceTaskType>
     <processToAssociateToTrashIcon/>
-    <name>Devin French RF</name>
+    <name>Joe Peters RF</name>
     <group/>
   </information>
 </ObjectDefinition>
