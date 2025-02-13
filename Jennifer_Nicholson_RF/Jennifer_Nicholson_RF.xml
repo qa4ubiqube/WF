@@ -1,0 +1,18 @@
+<ObjectDefinition>
+  <variables frozen="0">
+    <variable displayName="chelsea12" name="params.chelsea12" startIncrement="0" type="IpMask" mandatoryArray="false" visible="true" description="Industry later and ever budget Congress police." groupSeparator="" groupDisplayName="" maxLength="130" displayOrder="0" increment="0" refServiceURI="" keepOnImport="false" editable="false" uniqueItemsInDropDownList="false" onlyDetailView="false" createOnlyView="false" localVarNameMatch="" remoteVarNameMatch="" localVarToFilter="" remoteVarToFilter="" remoteVarValueToFilter="" arrayCanAdd="true" arrayCanRemove="true" arrayCanMove="true" arrayCanEdit="true" displayNameHeader="" fullDisplayName="" isCompositeKey="false" isMandatory="false" isUserLocked="false" isEditLocked="false" isGrouped="false" isSearchable="false" isUniqueGlobal="false"/>
+  </variables>
+  <example/>
+  <information>
+    <icon/>
+    <description>Focus my professor seek do huge.</description>
+    <displayField>service_id</displayField>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <wfConstraintsPath></wfConstraintsPath>
+    <serviceTaskType>python</serviceTaskType>
+    <processToAssociateToTrashIcon/>
+    <name>Jennifer Nicholson RF</name>
+    <group/>
+  </information>
+</ObjectDefinition>
