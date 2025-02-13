@@ -3,14 +3,14 @@
   <example/>
   <information>
     <icon/>
-    <description>Some head industry if both.</description>
+    <description>Radio important animal left task center.</description>
     <displayField>service_id</displayField>
     <order>10000</order>
     <visibility>5</visibility>
     <wfConstraintsPath></wfConstraintsPath>
     <serviceTaskType>python</serviceTaskType>
     <processToAssociateToTrashIcon/>
-    <name>Andrew Cook RF</name>
+    <name>Jennifer Burns RF</name>
     <group/>
   </information>
 </ObjectDefinition>
