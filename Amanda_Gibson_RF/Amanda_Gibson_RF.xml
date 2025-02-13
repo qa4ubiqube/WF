@@ -1,6 +1,17 @@
 <ObjectDefinition>
   <variables frozen="0"/>
   <example/>
+  <process name="Process/workflows/Amanda_Gibson_RF/Process_David_Hurley_RF">
+    <displayName>David Hurley RF</displayName>
+    <type>CREATE</type>
+    <visibility>5</visibility>
+    <allowSchedule/>
+    <task name="Task_name_Jared_Hawkins_RF.py">
+      <processPath>/opt/fmc_repository/Process/workflows/Amanda_Gibson_RF/Process_David_Hurley_RF/Tasks</processPath>
+      <displayName>name=Jared Hawkins RF</displayName>
+    </task>
+    <processConstraintsPath/>
+  </process>
   <information>
     <icon/>
     <description>Hit attack book difference trial room season manage.</description>
