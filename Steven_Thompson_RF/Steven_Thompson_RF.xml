@@ -1,0 +1,16 @@
+<ObjectDefinition>
+  <variables frozen="0"/>
+  <example/>
+  <information>
+    <icon/>
+    <description>Financial third film research.</description>
+    <displayField>service_id</displayField>
+    <order>10000</order>
+    <visibility>5</visibility>
+    <wfConstraintsPath></wfConstraintsPath>
+    <serviceTaskType>python</serviceTaskType>
+    <processToAssociateToTrashIcon/>
+    <name>Steven Thompson RF</name>
+    <group/>
+  </information>
+</ObjectDefinition>
